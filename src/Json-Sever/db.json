@@ -1,0 +1,116 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "adminnek",
+      "password": "111",
+      "email": "anh@gmail.com",
+      "phone": "0123456789",
+      "address": "aaa",
+      "gender": "female"
+    },
+    {
+      "id": "Dung",
+      "name": "nguyễn Thị Thanh Dung",
+      "password": "123321",
+      "email": "Dung123@gmail.com",
+      "phone": "0123456789",
+      "address": "hjashdjashd",
+      "gender": "male"
+    },
+    {
+      "id": "meu",
+      "name": "aaa",
+      "password": "111",
+      "email": "meu@gmail.com",
+      "phone": "0123456789",
+      "address": "aaaa",
+      "gender": "female"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-05.png",
+      "title": "classic 1",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-14.jpg",
+      "title": "classic 2",
+      "price": 80000
+    },
+    {
+      "id": 3,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-06.jpg",
+      "title": "classic 1",
+      "price": 50000
+    },
+    {
+      "id": 4,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-12.jpg",
+      "title": "classic 1",
+      "price": 50000
+    },
+    {
+      "id": 5,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-11.jpg",
+      "title": "classic 1",
+      "price": 50000
+    },
+    {
+      "id": 6,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-10.jpg",
+      "title": "aaa",
+      "price": "11111"
+    },
+    {
+      "id": 7,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-09.jpg",
+      "title": "classic abc",
+      "price": 50000
+    },
+    {
+      "id": 8,
+      "image": "http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-08.jpg",
+      "title": "classic mona",
+      "price": 90000
+    }
+  ],
+  "employee": [
+    {
+      "name": "Nihira techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 5,
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767"
+    },
+    {
+      "name": "anh",
+      "email": "anh@gmail.com",
+      "phone": "0123456789",
+      "active": true,
+      "id": 6
+    }
+  ]
+}
